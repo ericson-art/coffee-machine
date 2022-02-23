@@ -1,9 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="CoffeeMachine-1.0-SNAPSHOT-jar-with-dependencies.jar" type="JarApplication">
-    <option name="JAR_PATH" value="$PROJECT_DIR$/target/CoffeeMachine-1.0-SNAPSHOT-jar-with-dependencies.jar" />
-    <option name="PROGRAM_PARAMETERS" value="2000 2000 2000" />
-    <option name="ALTERNATIVE_JRE_PATH" />
-    <module name="coffee-machine" />
-    <method v="2" />
-  </configuration>
-</component>
