@@ -50,7 +50,7 @@ public class CoffeeMachine {
     }
 
     public void printValueAdd (String msg) {
-        String out = String.format ( "%s %s %s  ---> ( Добавили %s )", coffee, water, milk, msg );
+        String out = String.format ( " %s %s %s        /  Добавили %s  /", coffee, water, milk, msg );
         System.out.println ( out );
     }
 
