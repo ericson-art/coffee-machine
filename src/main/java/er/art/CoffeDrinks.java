@@ -1,1 +1,1 @@
-package er.art;public interface CoffeDrinks {    public void calkOfIngredients ();    public String getName ();}
+package er.art;public interface CoffeDrinks {    public void calkOfIngredients ();    void setPrintMSG (int waterInMachine, int coffeeInMachine, int milkInMachine);    public Boolean isCalculate ();    public String getNameDrink ();    public StringBuilder getPrintMSG ();}
