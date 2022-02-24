@@ -10,15 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d03c49d3-8ecd-4f20-b704-49f0fd9fef01" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/er/art/CoffeDrinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/er/art/CoffeDrinks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/er/art/CoffeeMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/er/art/CoffeeMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/er/art/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/er/art/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/er/art/coffeeDrinks/Cappuccino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/er/art/coffeeDrinks/Cappuccino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/er/art/coffeeDrinks/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/er/art/coffeeDrinks/Espresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/er/art/coffeeDrinks/Latte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/er/art/coffeeDrinks/Latte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/er/art/coffeeDrinks/Lungo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/er/art/coffeeDrinks/Lungo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/er/art/coffeeDrinks/Ristretto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/er/art/coffeeDrinks/Ristretto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +57,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
